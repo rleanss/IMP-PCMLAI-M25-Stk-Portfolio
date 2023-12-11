@@ -1,5 +1,3 @@
-# IMP-PCMLAI-M25-Stk-Portfolio
-
 ## Explanation
 
 This project focuses on developing a stock price prediction model for a specific set of stocks, aiming to construct portfolios or assess trading strategies across different sectors, such as big tech or finance companies. The initial model utilizes historical stock prices as the primary input variable, establishing a baseline performance for future iterations that incorporate additional data sources like news and financial reports.
